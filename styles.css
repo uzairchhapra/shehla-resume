@@ -338,16 +338,6 @@ body::before {
   box-shadow: 0 26px 70px rgba(56, 189, 248, 0.12);
 }
 
-.project-card a {
-  margin-top: auto;
-  display: inline-flex;
-  width: fit-content;
-  border-bottom: 1px solid rgba(56, 189, 248, 0.7);
-  color: #7dd3fc;
-  font-weight: 800;
-  padding-top: 1.5rem;
-}
-
 .credential-card {
   padding: 1.4rem;
 }
